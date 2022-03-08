@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{66E001CA-052C-4021-B79F-E827757E1604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevJobs.API", "src\DevJobs.API\DevJobs.API.csproj", "{CCFEFF26-B596-47E3-86E0-A887F3C103A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevJobs.API", "src\DevJobs.API\DevJobs.API.csproj", "{CCFEFF26-B596-47E3-86E0-A887F3C103A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
