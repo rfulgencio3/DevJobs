@@ -1,7 +1,7 @@
 ﻿using DevJobs.API.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace DevJobs.API.Persistence
+namespace DevJobs.API.Data
 {
     public class DevJobsContext : DbContext
     {
