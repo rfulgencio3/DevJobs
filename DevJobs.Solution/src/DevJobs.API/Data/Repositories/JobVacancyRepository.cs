@@ -16,9 +16,9 @@ namespace DevJobs.API.Data.Repositories
             _devJobsContext.SaveChanges();  
         }
 
-        public void AddApplication(JobVacancy jobVacancy)
+        public void AddApplication(JobApplication jobApplication)
         {
-            _devJobsContext.JobVacancies.Add(jobVacancy);
+            _devJobsContext.JobApplications.Add(jobApplication);
             _devJobsContext.SaveChanges();
         }
 

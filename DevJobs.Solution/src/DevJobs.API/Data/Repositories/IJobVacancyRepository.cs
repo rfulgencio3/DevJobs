@@ -11,4 +11,3 @@ namespace DevJobs.API.Data.Repositories
         void AddApplication(JobApplication jobApplication);
     }
 }
-}
